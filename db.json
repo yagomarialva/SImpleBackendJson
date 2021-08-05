@@ -1,0 +1,19 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Macbook Pro",
+        "price": 1200.43
+    },
+    {
+        "id": 2,
+        "name": "Samsung 12",
+        "price": 900.43
+    },
+    {
+        "id": 3,
+        "name": "Celular Positivo",
+        "price": 7000.45
+    }
+
+]
+}
