@@ -1,19 +1,28 @@
 {
-    "products": [{
-        "id": 1,
-        "name": "Macbook Pro",
-        "price": 1200.43
+  "books": [
+    {
+      "id": 1,
+      "name": "As Crônicas de gelo e fogo - O jogo dos tronos",
+      "description": "Primeiro livro da saga cronicas de gelo e fogo",
+      "type": "Ficção"
     },
     {
-        "id": 2,
-        "name": "Samsung 12",
-        "price": 900.43
+      "id": 2,
+      "name": "Algoritmos e Estrutura de dados - Java",
+      "description": "Estudos sobre algoritmos e estrutura de dados usando Java",
+      "type": "Programação"
     },
     {
-        "id": 3,
-        "name": "Celular Positivo",
-        "price": 7000.45
+      "id": 3,
+      "name": "Alexandre O Grande",
+      "description": "Biografia de Alexandre Magno",
+      "type": "História"
+    },
+    {
+      "id": 4,
+      "name": "Teste",
+      "description": "testesrtess",
+      "type": "Teste"
     }
-
-]
+  ]
 }
